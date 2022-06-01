@@ -1,6 +1,4 @@
-# firmware
-Welcome to the Jasco Products Firmware Repository! 
-Here you can download firmware for our connected home devices.
+# Welcome to the Jasco Products Firmware Repository! 
 
 # Disclaimer
 
