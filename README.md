@@ -46,3 +46,9 @@ PLEASE NOTE: Downloading and applying the wrong firmware can cause irreperable d
 For exact instructions on how to update your firmware, please review the documentation outlining this process for your specific home automation hub/system. Documentation must be provided by the support staff for the home automation hub/system in question. Some hubs and systems do not currently offer OTA updates, and any requested functionality to do so should be directed to the support for those specific systems.
 
 Updates via HomeAssistant require the [ZWaveJS2MQTT addon](https://github.com/hassio-addons/addon-zwavejs2mqtt/blob/main/zwavejs2mqtt/DOCS.md).
+
+[![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
+
+
+[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
+[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt
