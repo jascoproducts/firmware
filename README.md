@@ -1,4 +1,4 @@
-# Welcome to the Jasco Products Company LLC (Jasco) Firmware Repository! 
+# Jasco Products Company LLC (Jasco) Firmware Repository
 
 # Disclaimer
 
