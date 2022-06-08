@@ -16,7 +16,7 @@ If your item is not currently on this list, please open an [Issue](https://githu
 
 Wifi products currently require the use of our app to update the firmware. If you have an Enbrighten, Jasco Pro, MyTouchSmart, or other Jasco branded device, please use the appropriate app to deploy the latest firmware to your device. 
 
-Zigbee Firmware is currently unavailable. We are actively looking to provide these to our customers at a later date.
+Zigbee Firmware coming soon.
 
 # Identifying Your Product
 
