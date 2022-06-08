@@ -10,6 +10,8 @@ Jasco does not imply or guarantee that the software provided will meet your requ
 
 Z-Wave Firmware is avaliable for items listed in the following document - [ZWave Product Firmware Listing](docs/listing.txt)
 
+These firmware files have been tested and validated by the Jasco Connected Home team, and as testing occurs additional files will be released over time.
+
 If your item is not currently on this list, please open an [Issue](https://github.com/jascoproducts/firmware/issues/new) to request the files.
 
 Wifi products currently require the use of our app to update the firmware. If you have an Enbrighten, Jasco Pro, MyTouchSmart, or other Jasco branded device, please use the appropriate app to deploy the latest firmware to your device. 
