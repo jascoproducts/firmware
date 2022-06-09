@@ -12,9 +12,9 @@ Z-Wave Firmware is avaliable for items listed in the following document - [ZWave
 
 These firmware files have been tested and validated by the Jasco Connected Home team, and as testing occurs additional files will be released over time.
 
-If your item is not currently on this list, please open an [Issue](https://github.com/jascoproducts/firmware/issues/new) to request the files.
+If your item is not currently on this list, you can open an [Issue](https://github.com/jascoproducts/firmware/issues/new) and we will move it up on our priortiy list to release.
 
-Wifi products currently require the use of our app to update the firmware. If you have an Enbrighten, Jasco Pro, MyTouchSmart, or other Jasco branded device, please use the appropriate app to deploy the latest firmware to your device. 
+Wi-Fi products currently require the use of our app to update the firmware. If you have an Enbrighten, JascoPro, or other Jasco branded device, please use the appropriate app to deploy the latest firmware to your device. 
 
 Zigbee Firmware coming soon.
 
@@ -27,7 +27,7 @@ Second - Identify the Product Brand. This can be found in the upper left corner 
 GE
 Enbrighten
 Honeywell
-Ultra Pro
+UltraPro
 
 Example pictues are below:
 
@@ -54,3 +54,6 @@ Updates via HomeAssistant require the [ZWaveJS2MQTT addon](https://github.com/ha
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt
+
+
+Use LINUS10 for 10% off your order on (https://byjasco.com)
