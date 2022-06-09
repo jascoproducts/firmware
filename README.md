@@ -22,9 +22,7 @@ Zigbee Firmware coming soon.
 
 First - Identify the Product Brand. This can be found in the upper left corner and will say one of the following brands:
 
-Enbrighten-GE
-Honeywell
-UltraPro
+Enbrighten-GE | Honeywell | UltraPro
 
 Second - Identify your ZW Number. This can be found on the device itself, typically on the upper corner or back of the product itself.
 
