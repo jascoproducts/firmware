@@ -8,7 +8,7 @@ Jasco does not imply or guarantee that the software provided will meet your requ
 
 # Files Contained In This Repository
 
-Z-Wave Firmware is avaliable for items listed in the following document - [ZWave Product Firmware Listing](docs/listing.txt)
+Z-Wave Firmware is avaliable for items listed under the 'zwave' folder within the repository.
 
 These firmware files have been tested and validated by the Jasco Connected Home team, and as testing occurs additional files will be released over time.
 
