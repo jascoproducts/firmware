@@ -56,4 +56,7 @@ Updates via HomeAssistant require the [ZWaveJS2MQTT addon](https://github.com/ha
 [addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt
 
 
-Use LINUS10 for 10% off your order on (https://byjasco.com)
+Just for you, use LINUS10 for 10% off your order on (https://byjasco.com)
+
+*Offer valid for purchase and shipment in the U.S. only when redeemed by 7/31/2022. Coupon code is required, discount will be applied when you enter the coupon code during the shopping cart process (case-sensitive). Coupon codes may only be redeemed once. Sales tax and shipping excluded. Dealers, distributors and other re-sellers are not eligible for this offer. Additional terms, conditions, products, pricing and offers subject to change without notice. Cannot be used on already discounted items or combined with other offers.  Not redeemable for cash or valid toward previous purchases. Price match refunds are not eligible with any other promotions. Free Shipping is valid in the U.S. only for purchases of $50 or more in same order. If you choose another shipping option, additional charges will apply.
+
