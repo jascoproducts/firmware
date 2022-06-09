@@ -30,9 +30,9 @@ Second - Identify your ZW Number. This can be found on the device itself, typica
 
 Example pictues are below:
 
-[<img alt="Example of a GE Branded Item" width="350px" src="images/example1.png" />]
+<img alt="Example of a GE Branded Item" width="350px" src="images/example1.png" />
 
-[<img alt="Example of an Enbrighten Branded Item" width="350px" src="images/example2.png" />]
+<img alt="Example of an Enbrighten Branded Item" width="350px" src="images/example2.png" />
 
 The folder structure for firmware is as follows:
 
