@@ -34,7 +34,7 @@ Example pictues are below:
 
 The folder structure for firmware is as follows:
 
-Root - ZWAVE - (ZW Number) - (Brand) - (Version Number) - Firmware File
+Root - ZWAVE - (Brand) - (ZW Number) - (Product Number) - (Version Number) - Firmware File
 
 Navigate to the correct section based on the ZW Number and Brand of your device, and the firmware version you wish to download.
 
