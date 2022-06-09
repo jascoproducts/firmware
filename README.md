@@ -26,6 +26,8 @@ Enbrighten-GE | Honeywell | UltraPro
 
 Second - Identify your ZW Number. This can be found on the device itself, typically on the upper corner or back of the product itself.
 
+Finally - Identify your Product Number. These are typically on the back of the device in question.
+
 Example pictues are below:
 
 <img alt="Example of a GE Branded Item" width="350px" src="images/example1.png" />
@@ -34,7 +36,7 @@ Example pictues are below:
 
 The folder structure for firmware is as follows:
 
-Root - ZWAVE - (Brand) - (ZW Number) - (Product Number) - (Version Number) - Firmware File
+Root - ZWAVE - (Brand) - (ZW Number) - (Product Number) - (Firmware Version Number) - Firmware File
 
 Navigate to the correct section based on the ZW Number and Brand of your device, and the firmware version you wish to download.
 
