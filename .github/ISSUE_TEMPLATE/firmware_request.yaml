@@ -1,0 +1,30 @@
+name: Request Firmware
+description: Use this template, to reqeust firmware files for your product.
+title: "[Firmware Request]: <Brand> <ZW Number> <Prod Number> "
+body:
+ - type: dropdown
+    id: brand
+    attributes:
+      label: What brand is the request for?
+      multiple: false
+      options:
+        - Enbrighten-GE
+        - Honeywell
+        - UltraPro
+    validations:
+      required: true
+ - type: input
+    id: zwnumber
+    attributes:
+      label: ZW Number
+      description: Please provide the ZW Number?
+    validations:
+      required: true
+ - type: input
+    id: zwnumber
+    attributes:
+      label: Product Number
+      description: Please provide the Product Number?
+    validations:
+      required: true
+
