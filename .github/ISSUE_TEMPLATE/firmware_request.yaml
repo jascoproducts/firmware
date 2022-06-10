@@ -1,5 +1,5 @@
 name: Request Firmware
-description: Use this template, to reqeust firmware files for your product.
+description: Use this template to request firmware files for your product.
 title: "[Firmware Request]: <Brand> - <ZW Number> - <Prod Number> "
 body:
   - type: dropdown
