@@ -21,7 +21,7 @@ body:
     validations:
       required: true
   - type: input
-    id: zwnumber
+    id: prodnumber
     attributes:
       label: Product Number
       description: Please provide the Product Number?
