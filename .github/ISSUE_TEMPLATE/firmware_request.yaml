@@ -2,7 +2,7 @@ name: Request Firmware
 description: Use this template, to reqeust firmware files for your product.
 title: "[Firmware Request]: <Brand> <ZW Number> <Prod Number> "
 body:
- - type: dropdown
+  - type: dropdown
     id: brand
     attributes:
       label: What brand is the request for?
@@ -13,14 +13,14 @@ body:
         - UltraPro
     validations:
       required: true
- - type: input
+  - type: input
     id: zwnumber
     attributes:
       label: ZW Number
       description: Please provide the ZW Number?
     validations:
       required: true
- - type: input
+  - type: input
     id: zwnumber
     attributes:
       label: Product Number
