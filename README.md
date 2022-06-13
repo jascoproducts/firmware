@@ -14,11 +14,13 @@ These firmware files have been tested and validated by the Jasco Connected Home 
 
 If your item is not currently on this list, you can open an [Issue](https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yaml&title=%5BFirmware+Request%5D%3A+%3CBrand%3E+-+%3CZW+Number%3E+-+%3CProd+Number%3E+) and we will move it up on our priortiy list to release.
 
-Wi-Fi products currently require the use of our app to update the firmware. If you have an Enbrighten, JascoPro, or other Jasco branded device, please use the appropriate app to deploy the latest firmware to your device. 
+Wi-Fi products currently require the use of our app to update the firmware. If you have an Enbrighten, UltraPro, or other Jasco branded device, please use the appropriate app to deploy the latest firmware to your device. 
 
 Zigbee Firmware coming soon.
 
 # Identifying Your Product
+
+<img alt="Z-Wave vs Z-Wave Plus" width="568" src="images/Z-Wave vs Z-Wave Plus.png" />
 
 First - Identify the Product Brand. This can be found in the upper left corner and will say one of the following brands:
 
@@ -26,7 +28,8 @@ Enbrighten-GE | Honeywell | UltraPro
 
 Second - Identify your ZW Number. This can be found on the device itself, typically on the upper corner or back of the product itself.
 
-Finally - Identify your Product Number. These are typically on the back of the device in question.
+Finally - Identify your Product Number. These are typically on the back of the device in question followed by "-x" (ex: 46201-2 or 55256-1).
+These will not be 5 digits next to "PIN:". The Pin number is for Z-Wave S2 Security inclusion.
 
 Example pictues are below:
 
