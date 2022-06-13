@@ -1,0 +1,50 @@
+name: Firmware Bug Report
+description: Use this template to report a problem/bug with a firmware.
+title: "[Bug Report]: <Brand> - <ZW Number> - <Prod Number> - <FW Version>"
+body:
+  - type: dropdown
+    id: brand
+    attributes:
+      label: What brand is the bug report for?
+      multiple: false
+      options:
+        - Enbrighten-GE
+        - Honeywell
+        - UltraPro
+    validations:
+      required: true
+  - type: input
+    id: zwnumber
+    attributes:
+      label: ZW Number
+      description: Please provide the ZW Number
+    validations:
+      required: true
+  - type: input
+    id: prodnumber
+    attributes:
+      label: Product Number
+      description: Please provide the Product Number
+    validations:
+      required: true
+  - type: input
+    id: fwversion
+    attributes:
+      label: FW Version
+      description: Please provide the FW version that this bug relates.
+    validations:
+      required: true
+  - type: textarea
+    id: bugdescription
+    attributes:
+      label: Bug Report Details
+      description: Please describe the outline of the bug
+    validations:
+      required: true
+  - type: textarea
+    id: bugrecreate
+    attributes:
+      label: How To Reproduce
+      description: Please describe the steps that leads to the fault
+    validations:
+      required: true
