@@ -18,6 +18,12 @@ Wi-Fi products currently require the use of our app to update the firmware. If y
 
 Zigbee Firmware coming soon.
 
+# Initial Release Schedule
+
+We will be working through and validating all current product that is capable of OTA updates and releasing each Friday.
+
+Once all current product has been listed we will reevaluate the schedule as necessary.
+
 # Identifying Your Product
 
 <img alt="Z-Wave vs Z-Wave Plus" width="568" src="images/Z-Wave vs Z-Wave Plus.png" />
