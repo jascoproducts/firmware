@@ -11,20 +11,21 @@ body:
         - Enbrighten-GE
         - Honeywell
         - UltraPro
+        - Jasco
     validations:
       required: true
   - type: input
     id: zwnumber
     attributes:
       label: ZW Number
-      description: Please provide the ZW Number?
+      description: Please provide the ZW Number? See [this section](https://github.com/jascoproducts/firmware#identifying-your-product) of the repository readme for more info.
     validations:
       required: true
   - type: input
     id: prodnumber
     attributes:
       label: Product Number
-      description: Please provide the Product Number?
+      description: Please provide the Product Number? See [this section](https://github.com/jascoproducts/firmware#identifying-your-product) of the repository readme for more info.
     validations:
       required: true
 
