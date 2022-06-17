@@ -1,0 +1,8 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW4005 Enbrighten GE 14291 In-Wall Smart Paddle Switch,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.2,6.51.06,1. Original Release Firmware,1651
+,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,
+5.22,6.51.10,1. Fixed AGI issue,1729
+,,2. Updated the Devkit from 6.51.06 to 6.51.10,
+5.24,6.51.10,1. Added parameter 19 for the alternate exclusion,1831

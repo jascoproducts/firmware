@@ -1,0 +1,10 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW4002 Enbrighten GE 14287 In-Wall Smart Fan Speed Control,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.2,6.51.06,1. Original Release Firmware,1651
+,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,
+5.22,6.51.10,"1. Fixed the reset and exclusion failed status if the host is powered off and associated with G1, G2 and G3",1730
+,,2. Fixed the manual reset failed status if the host is powered off and excluded,
+,,3. Updated the Devkit from 6.51.06 to 6.51.10,
+5.24,6.51.10,1. Added parameter 3,1931
+,,2. Added parameter 19,

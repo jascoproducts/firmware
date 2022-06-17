@@ -1,0 +1,5 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW3011 Enbrighten GE 46204 In-Wall Smart Toggle Dimmer,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.53,6.81.03,1. Original Release Firmware,1942
+5.54,6.81.03,1. Adjusted low-end dimming threshold to match 14294,2015

@@ -1,0 +1,7 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW4008 Enbrighten GE 46201 In-Wall Smart Paddle Switch,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.53,6.81.03,1. Original Release Firmware,1918
+5.54,6.81.03,1. Add Parameter 84,2137
+,,2. Valid Value 0 – No specific behavior necessary Valid Value 1 – Reset Switch to Factory Defaults ,
+,,3. Valid Value 1 – Reset Switch to Factory Defaults ,

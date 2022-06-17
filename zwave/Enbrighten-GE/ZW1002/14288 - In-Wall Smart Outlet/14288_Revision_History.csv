@@ -1,0 +1,6 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW1002 Enbrighten GE 14288 In-Wall Smart Outlet,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.23,6.51.09,1. Original Release Firmware,1710
+5.24,6.51.10,1. Updated Devkit from 6.51.09 to 6.51.10,1752
+5.26,6.51.10,1. Added parameter 19,1839

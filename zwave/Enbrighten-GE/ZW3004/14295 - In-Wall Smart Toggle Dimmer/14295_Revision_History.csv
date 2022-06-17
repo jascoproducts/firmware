@@ -1,0 +1,8 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW3004 Enbrighten GE 14295 In-Wall Smart Toggle Dimmer,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.21,6.51.08,1. Original Release Firmware,1651
+5.26,6.51.08,1. Added parameter 16,1848
+,,2. Added paramter 19 for alternate exclusion,
+,,3. Modiffied the 3-way function,
+,,4. Added parameter 20,

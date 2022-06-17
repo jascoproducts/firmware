@@ -1,0 +1,5 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW4006 Enbrighten GE 26931 In-Wall Smart Motion Switch,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.38,6.51.10,1. Original Release Firmware,1641
+5.39,6.51.10,"1. Fixed ""Press and Hold"" timing to ensure light turns on if button is held instead of ""Pressed and Released""",1836

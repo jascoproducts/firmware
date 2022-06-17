@@ -1,0 +1,20 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW4103 Enbrighten GE 28169 Plug-in 1-Outlet Smart Switch,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.01,6.51.06,1. Original Release Firmware (OTA file not released due to lack of support for Adesto flash in newer hardware),1544
+,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,
+5.21,6.51.06,1. Modify the button press process for association group 2 and 3,1651
+,,"2. Modify the lifeline assocation group, 5 node will send singlecast message when the device is reset locally",
+,,3. Modified the default status for LED,
+,,4. Modified the button press process to change the status for the LED,
+,,5. Modified the assocation to 3 groups (5 node each group),
+,,"6. Added Instantaneous Reports CC, Scene Activation CC and Scene Actuator CC",
+,,7. Removed CRC,
+,,8. Updated to S-0,
+,,9. Added AGI command class,
+,,10. Removed S-0,
+,,11. Fixed an issue where Node info was automatically sent in NWI mode,
+,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,
+5.23,6.51.10,1. Fixed AGI issue,1749
+,,2. Updated Devkit from 6.51.06 to 6.51.10,
+5.25,6.51.10,1. Added parameter 19,1829

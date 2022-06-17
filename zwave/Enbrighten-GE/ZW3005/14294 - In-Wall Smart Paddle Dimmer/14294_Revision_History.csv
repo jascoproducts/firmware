@@ -1,0 +1,6 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW3005 Enbrighten GE 14294 In-Wall Smart Paddle Dimmer,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.26,6.51.08,1. Original Release Firmware,1651
+5.29,6.51.08,1. Scene actuator and scene activation fixed,1806
+,,2. Modified the dimming duration for Command Class Switch_Multilevel_Set,
