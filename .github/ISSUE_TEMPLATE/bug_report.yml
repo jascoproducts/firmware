@@ -1,6 +1,6 @@
 name: Firmware Bug Report
 description: Use this template to report a problem/bug with a firmware.
-title: "[Bug Report]: <Brand> - <ZW Number> - <Prod Number> - <FW Version>"
+title: "[Bug Report]: BRAND - ZW NUMBER - PRODUCT NUMBER - FW VERSION"
 body:
   - type: dropdown
     id: brand
@@ -11,40 +11,41 @@ body:
         - Enbrighten-GE
         - Honeywell
         - UltraPro
+        - Jasco
     validations:
       required: true
   - type: input
     id: zwnumber
     attributes:
       label: ZW Number
-      description: Please provide the ZW Number
+      description: Please provide the ZW Number. See [this section](https://github.com/jascoproducts/firmware#identifying-your-product) of the repository readme for more info.
     validations:
       required: true
   - type: input
     id: prodnumber
     attributes:
       label: Product Number
-      description: Please provide the Product Number
+      description: Please provide the Product (SKU) Number found on the device. If unavailable, please provide in the comments of your request as much relevant identifying information/screenshots as possible. See [this section](https://github.com/jascoproducts/firmware#identifying-your-product) of the repository readme for more info.
     validations:
       required: true
   - type: input
     id: fwversion
     attributes:
       label: FW Version
-      description: Please provide the FW version that this bug relates.
+      description: Please provide the FW version to which this bug relates.
     validations:
       required: true
   - type: textarea
     id: bugdescription
     attributes:
       label: Bug Report Details
-      description: Please describe the outline of the bug
+      description: Please outline the bug behavior.
     validations:
       required: true
   - type: textarea
     id: bugrecreate
     attributes:
       label: How To Reproduce
-      description: Please describe the steps that leads to the fault
+      description: Please describe the steps that lead to the bug occuring.
     validations:
       required: true
