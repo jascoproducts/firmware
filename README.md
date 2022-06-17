@@ -12,7 +12,9 @@ Z-Wave Firmware is avaliable for items listed under the '[zwave](https://github.
 
 These firmware files have been tested and validated by the Jasco Connected Home team, and as testing occurs additional files will be released over time.
 
-If your item is not currently on this list, you can open an [Issue](https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yaml&title=%5BFirmware+Request%5D%3A+%3CBrand%3E+-+%3CZW+Number%3E+-+%3CProd+Number%3E+) and we will move it up on our priortiy list to release.
+If your item is not currently on this list, you can open a [Firmware Request](https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yaml&title=%5BFirmware+Request%5D%3A+%3CBrand%3E+-+%3CZW+Number%3E+-+%3CProd+Number%3E+) and we will move it up on our priortiy list to release.
+
+If you wish to report a problem with a particular Firmware version, please open a [Bug Report](https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=bug_report.yml&title=%5BBug+Report%5D%3A+%3CBrand%3E+-+%3CZW+Number%3E+-+%3CProd+Number%3E+-+%3CFW+Version%3E) and we will investigate at the earliest opportunity.
 
 Wi-Fi products currently require the use of our app to update the firmware. If you have an Enbrighten, UltraPro, or other Jasco branded device, please use the appropriate app to deploy the latest firmware to your device. 
 
