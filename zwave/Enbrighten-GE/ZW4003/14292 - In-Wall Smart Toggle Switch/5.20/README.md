@@ -15,7 +15,6 @@ v5.20: ORIGINAL RELEASE FOR MODEL 14292
 ## CHANGELOG:
 1. Original Release Firmware<br>
 <br>
-OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware. Read below for more information.
 
 ## FIRMWARE AVAILABILITY:
 
