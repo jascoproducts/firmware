@@ -26,7 +26,7 @@ currently available Z-Wave Firmware.
 These files have been tested and validated <br>
 by the **Jasco Connected Home** team.
 
-*As testing occurs additional files will be released over time.*
+*As testing occurs additional files will be released.*
 
 <br>
 
@@ -41,8 +41,8 @@ move it up on our priority list to release.
 ### Reporting Bugs
 
 If you wish to report a problem with a particular <br>
-Firmware version, please open a **[Bug Report]** and <br>
-we will investigate at the earliest opportunity.
+Firmware version, please open a **[Bug Report]** <br>
+and we will investigate at the earliest opportunity.
 
 <br>
 <br>

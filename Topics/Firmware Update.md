@@ -1,15 +1,49 @@
-## Firmware Updates
 
-Wi-Fi products currently require the use of our app to update the firmware.
+# Firmware Updates
 
-If you have an Enbrighten, UltraPro, or other Jasco branded device, please use the appropriate app to deploy the latest firmware to your device. 
+<br>
 
-For exact instructions on how to update your firmware, please review the documentation outlining this process for your specific home automation hub/system. Documentation must be provided by the support staff for the home automation hub/system in question. Some hubs and systems do not currently offer OTA updates, and any requested functionality to do so should be directed to the support for those specific systems.
+## WiFi
 
-Home Assistant users must use the [ZWaveJS2MQTT application](https://zwave-js.github.io/zwavejs2mqtt/#/README) to apply firmware updates.
+WiFi products currently require the <br>
+use of our app to update the firmware.
 
-[![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
+<br>
+<br>
+
+## Home Assistant
+
+For this system you willl have to use the <br>
+**[ZWaveJS2MQTT]** app to apply updates.
+
+[![Button Addon]][Addon]
+
+<br>
+<br>
+
+## Hubs
+
+The exact instructions on how to update your firmware <br>
+differ depending on the hub / system you are using.
+
+*Please review the documentation provided by* <br>
+*support staff of the hub / system in question.*
+
+<br>
+
+### Note
+
+Some hubs / systems currently do not offer **OTA** updates, <br>
+and any requests to add functionality to do so should be <br>
+directed to the support for those specific systems.
+
+<br>
+<br>
 
 
-[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt
+<!----------------------------------------------------------------------------->
+
+[Button Addon]: https://my.home-assistant.io/badges/supervisor_addon.svg
+
+[ZWaveJS2MQTT]: https://zwave-js.github.io/zwavejs2mqtt/
+[Addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt 'Open this add-on in your Home Assistant instance.'
