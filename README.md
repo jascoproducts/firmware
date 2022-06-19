@@ -1,4 +1,9 @@
-# Jasco Products Company LLC (Jasco) Firmware Repository
+
+# Jasco Firmware
+
+*Jasco Products Company LLC*
+
+<br>
 
 # Disclaimer
 
@@ -20,15 +25,33 @@ Wi-Fi products currently require the use of our app to update the firmware. If y
 
 Zigbee Firmware coming soon.
 
-# Initial Release Schedule
 
-We will be working through and validating all current product that is capable of OTA updates and releasing each Friday.
+<br>
+<br>
 
-Once all current product has been listed we will reevaluate the schedule as necessary.
+## Release Schedule
 
-# Identifying Your Product
+We will be working through and validating <br>
+all current products that are capable of OTA <br>
+updates and releasing them each Friday.
 
-<img alt="Z-Wave vs Z-Wave Plus" width="568" src="images/Z-Wave vs Z-Wave Plus.png" />
+*Once all current products have been listed* <br>
+*we will reevaluate the schedule as necessary.*
+
+<br>
+<br>
+
+## Product Identification
+
+<div align = center>
+
+<img
+    src = 'images/Z-Wave%20vs%20Z-Wave%20Plus.png'
+    alt = 'Z-Wave vs Z-Wave Plus'
+    width = 568
+/>
+    
+</div>
 
 First - Identify the Product Brand. This can be found in the upper left corner and will say one of the following brands:
 
@@ -53,7 +76,8 @@ Navigate to the correct section based on the ZW Number and Brand of your device,
 
 PLEASE NOTE: Downloading and applying the wrong firmware can cause irreperable damage to your device. Application of incorrect firmware will void the warranty on your device. Please make sure you are getting the correct product, brand, and version number for your use case.
 
-# Updating Your Firmware
+
+## Firmware Updates
 
 For exact instructions on how to update your firmware, please review the documentation outlining this process for your specific home automation hub/system. Documentation must be provided by the support staff for the home automation hub/system in question. Some hubs and systems do not currently offer OTA updates, and any requested functionality to do so should be directed to the support for those specific systems.
 
@@ -68,7 +92,50 @@ Home Assistant users must use the [ZWaveJS2MQTT application](https://zwave-js.gi
 
 
 
-<!--Hey cool, you read the comments and code. Since you found this, have a discount on us. Use LINUS10 for 10% off your next order on (https://byjasco.com).
+<!--
+    
+    Hey cool, you read the comments and code. 
+    Since you found this, have a discount on us. 
+    Use LINUS10 for 10% off your next order on
+    (https://byjasco.com).
+    
 
-*Offer valid for purchase and shipment in the U.S. only when redeemed by 7/31/2022. Coupon code is required, discount will be applied when you enter the coupon code during the shopping cart process (case-sensitive). Coupon codes may only be redeemed once. Sales tax and shipping excluded. Dealers, distributors and other re-sellers are not eligible for this offer. Additional terms, conditions, products, pricing and offers subject to change without notice. Cannot be used on already discounted items or combined with other offers.  Not redeemable for cash or valid toward previous purchases. Price match refunds are not eligible with any other promotions. Free Shipping is valid in the U.S. only for purchases of $50 or more in same order. If you choose another shipping option, additional charges will apply .>
+    *Offer valid for purchase and shipment in 
+    the U.S. only when redeemed by 7/31/2022. 
+    
+    Coupon code is required, discount will 
+    be applied when you enter the coupon 
+    code during the shopping cart process 
+    (case-sensitive).
+    
+    Coupon codes may only be redeemed once.
+    
+    Sales tax and shipping excluded.
+    
+    Dealers, distributors and other re-sellers 
+    are not eligible for this offer.
+    
+    Additional terms, conditions, products, 
+    pricing and offers subject to change 
+    without notice.
+    
+    Cannot be used on already discounted
+    items or combined with other offers.
+    
+    Not redeemable for cash or valid
+    toward previous purchases.
+    
+    Price match refunds are not eligible 
+    with any other promotions.
+    
+    Free Shipping is valid in the U.S. only
+    for purchases of $50 or more in same order.
+    
+    If you choose another shipping option,
+    additional charges will apply.
+    
+-->
+
+
+<!----------------------------------------------------------------------------->
 
