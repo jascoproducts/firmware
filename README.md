@@ -116,8 +116,8 @@ updates and releasing them each Friday.
 [Identification]: Topics/Product%20Identification.md 'How to determine what type of product you own.'
 [Updating]: Topics/Firmware%20Update.md 'How to update the firmware on your device.'
 
-[Firmware Request]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yaml&title=%5BFirmware+Request%5D%3A+%3CBrand%3E+-+%3CZW+Number%3E+-+%3CProd+Number%3E+
-[Bug Report]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=bug_report.yml&title=%5BBug+Report%5D%3A+%3CBrand%3E+-+%3CZW+Number%3E+-+%3CProd+Number%3E+-+%3CFW+Version%3E
+[Firmware Request]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yml&title=%5BFirmware+Request%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER
+[Bug Report]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=bug_report.yml&title=%5BBug+Report%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER+-+FW+VERSION
 
 [License]: #
 [ZWave]: zwave
