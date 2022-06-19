@@ -5,13 +5,8 @@
 
 <br>
 
-# Disclaimer
 
-The software is provided "as is" to provide our customers the ability to update our products. Jasco does not offer any express or implied warranty of any kind when using these files, including, but not limited to, warranties of merchantability, noninfringement, or fitness for a particular purpose. 
-
-Jasco does not imply or guarantee that the software provided will meet your requirements or that the operation thereof will be uninterrupted or error-free, or that all errors will be corrected. Jasco does not assume any responsibility for product errors related to the use of the software contained within this repository. Jasco does not offer support on flashing firmware to the devices listed here and are only provided as a courtesy to our customers and the community. 
-
-# Files Contained In This Repository
+## Content
 
 Z-Wave Firmware is avaliable for items listed under the '[zwave](https://github.com/jascoproducts/firmware/tree/main/zwave)' folder within the repository.
 
@@ -40,56 +35,6 @@ updates and releasing them each Friday.
 
 <br>
 <br>
-
-## Product Identification
-
-<div align = center>
-
-<img
-    src = 'images/Z-Wave%20vs%20Z-Wave%20Plus.png'
-    alt = 'Z-Wave vs Z-Wave Plus'
-    width = 568
-/>
-    
-</div>
-
-First - Identify the Product Brand. This can be found in the upper left corner and will say one of the following brands:
-
-Enbrighten-GE | Honeywell | UltraPro
-
-Second - Identify your ZW Number. This can be found on the device itself, typically on the upper corner or back of the product itself.
-
-Finally - Identify your Product Number. These are typically on the back of the device in question followed by "-x" (ex: 46201-2 or 55256-1).
-These will not be 5 digits next to "PIN:". The Pin number is for Z-Wave S2 Security inclusion.
-
-Example pictues are below:
-
-<img alt="Example of a GE Branded Item" width="350px" src="images/example1.png" />
-
-<img alt="Example of an Enbrighten Branded Item" width="350px" src="images/example2.png" />
-
-The folder structure for firmware is as follows:
-
-Root - ZWAVE - (Brand) - (ZW Number) - (Product Number) - (Firmware Version Number) - Firmware File
-
-Navigate to the correct section based on the ZW Number and Brand of your device, and the firmware version you wish to download.
-
-PLEASE NOTE: Downloading and applying the wrong firmware can cause irreperable damage to your device. Application of incorrect firmware will void the warranty on your device. Please make sure you are getting the correct product, brand, and version number for your use case.
-
-
-## Firmware Updates
-
-For exact instructions on how to update your firmware, please review the documentation outlining this process for your specific home automation hub/system. Documentation must be provided by the support staff for the home automation hub/system in question. Some hubs and systems do not currently offer OTA updates, and any requested functionality to do so should be directed to the support for those specific systems.
-
-Home Assistant users must use the [ZWaveJS2MQTT application](https://zwave-js.github.io/zwavejs2mqtt/#/README) to apply firmware updates.
-
-[![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
-
-
-[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt
-
-
 
 
 <!--
