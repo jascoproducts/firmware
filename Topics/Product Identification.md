@@ -14,6 +14,11 @@
 </div>
 
 <br>
+<br>
+
+## Steps
+
+<br>
 
 1. **Identify the Product Brand.**
 
@@ -88,11 +93,16 @@ the firmware version you wish to download.
 
 ## Warning
 
-Downloading and applying the wrong firmware <br>
+```
+Downloading and applying the wrong firmware
 can cause irreparable damage to your device.
 
-Application of incorrect firmware <br>
-will void the warranty on your device.
+Application of incorrect firmware will
+void the warranty on your device.
 
-Please make sure you are getting the correct product, <br>
+Please make sure you are getting the correct product,
 brand, and version number for your use case.
+```
+
+<br>
+<br>
