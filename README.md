@@ -5,6 +5,18 @@
 
 <br>
 
+<div align = center>
+
+---
+
+[![Button Identification]][Identification]   
+[![Button Updating]][Updating] 
+
+---
+
+</div>
+
+<br>
 
 ## Content
 
@@ -84,3 +96,8 @@ updates and releasing them each Friday.
 
 <!----------------------------------------------------------------------------->
 
+[Button Identification]: https://img.shields.io/badge/Product_Identification-00A0DF?style=for-the-badge&logoColor=white&logo=GitBook
+[Button Updating]: https://img.shields.io/badge/Updating_Firmware-37a779?style=for-the-badge&logoColor=white&logo=RSS
+
+[Identification]: Topics/Product%20Identification.md 'How to determine what type of product you own.'
+[Updating]: Topics/Firmware%20Update.md 'How to update the firmware on your device.'
