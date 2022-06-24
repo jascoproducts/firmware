@@ -7,4 +7,4 @@ VERSION,Z-Wave Devkit,Changes,Date Code
 ,,2. Fixed the manual reset failed status if the host is powered off and excluded,
 ,,3. Updated the Devkit from 6.51.06 to 6.51.10,
 5.24,6.51.10,1. Added parameter 3,1931
-,,2. Added parameter 19,
+,,2. Added parameter 19 for alternate exclusion,

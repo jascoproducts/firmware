@@ -13,9 +13,7 @@ v5.20: ORIGINAL RELEASE FOR MODEL 14287
 1651 THROUGH 1729
 
 ## CHANGELOG:
-1. Original Release Firmware<br>
-<br>
-OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware. Read below for more information.
+1. Original Release Firmware
 
 ## FIRMWARE AVAILABILITY:
 

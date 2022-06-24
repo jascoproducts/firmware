@@ -23,9 +23,7 @@ v5.21: SECOND RELEASE FOR MODEL 28169
 8. Updated to S-0<br>
 9. Added AGI command class<br>
 10. Removed S-0<br>
-11. Fixed an issue where Node info was automatically sent in NWI mode<br>
-<br>
-OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware. Read below for more information.
+11. Fixed an issue where Node info was automatically sent in NWI mode
 
 ## FIRMWARE AVAILABILITY:
 

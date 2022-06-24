@@ -13,8 +13,7 @@ v5.20: ORIGINAL RELEASE FOR MODEL 14292
 1651 THROUGH 1741
 
 ## CHANGELOG:
-1. Original Release Firmware<br>
-<br>
+1. Original Release Firmware
 
 ## FIRMWARE AVAILABILITY:
 

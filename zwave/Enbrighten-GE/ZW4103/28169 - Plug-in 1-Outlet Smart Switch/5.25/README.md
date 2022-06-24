@@ -13,4 +13,4 @@ v5.25: FOURTH RELEASE FOR MODEL 28169
 1829 THROUGH PRESENT
 
 ## CHANGELOG:
-1. Added parameter 19
+1. Added parameter 19 for alternate exclusion

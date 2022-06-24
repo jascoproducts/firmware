@@ -13,4 +13,4 @@ v5.22: THIRD RELEASE FOR MODEL 14292
 1834 THROUGH PRESENT
 
 ## CHANGELOG:
-1. Added parameter 19
+1. Added parameter 19 for alternate exclusion

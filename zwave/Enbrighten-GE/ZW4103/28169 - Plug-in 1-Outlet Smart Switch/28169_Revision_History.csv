@@ -17,4 +17,4 @@ VERSION,Z-Wave Devkit,Changes,Date Code
 ,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,
 5.23,6.51.10,1. Fixed AGI issue,1749
 ,,2. Updated Devkit from 6.51.06 to 6.51.10,
-5.25,6.51.10,1. Added parameter 19,1829
+5.25,6.51.10,1. Added parameter 19 for alternate exclusion,1829
