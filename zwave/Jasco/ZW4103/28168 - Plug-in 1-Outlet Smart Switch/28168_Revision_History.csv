@@ -1,0 +1,16 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW4103 Jasco 28168 Plug-in 1-Outlet Smart Switch,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.21,6.51.06,1. Modify the button press process for association with groups 2 and 3,1648
+,,"2. Modify the lifeline assocation group, 5 nodes will send singlecast message when the device is reset locally",
+,,3. Modify the default setting for LED indication,
+,,4. Modified the button press process to change the status for the LED,
+,,5. Modified the assocation to 3 groups (5 nodes each group),
+,,"6. Added Instantaneous reports, Scene Activation and Scene Actuator command classes",
+,,7. Removed CRC,
+,,8. Added AGI command class,
+,,9. Fixed an issue where node info was automatically sent in NWI mode,
+,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,
+5.25,6.51.10,1. Fixed AGI issue,1948
+,,2. Updated Devkit from 6.51.06 to 6.51.10,
+,,3. Added parameter 19 for alternate exclusion,

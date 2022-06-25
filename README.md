@@ -12,10 +12,6 @@
 [![Button Identification]][Identification]   
 [![Button Updating]][Updating] 
 
----
-
-</div>
-
 <br>
 <br>
 
@@ -118,6 +114,6 @@ updates and releasing them each Friday.
 
 [Firmware Request]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yml&title=%5BFirmware+Request%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER
 [Bug Report]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=bug_report.yml&title=%5BBug+Report%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER+-+FW+VERSION
-
+  
 [License]: #
 [ZWave]: zwave

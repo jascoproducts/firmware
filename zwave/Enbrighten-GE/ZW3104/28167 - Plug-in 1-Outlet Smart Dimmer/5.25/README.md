@@ -13,7 +13,7 @@ v5.25: THIRD RELEASE FOR MODEL 28167
 1751 THROUGH PRESENT
 
 ## CHANGELOG:
-1. Added parameter #16<br>
+1. Added parameter 16<br>
 2. Added minimum dim level<br>
 3. Added button press process to enter switch mode<br>
 4. Fixed Scene Actuator Configuration<br>

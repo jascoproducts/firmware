@@ -13,9 +13,8 @@ v5.20: ORIGINAL RELEASE FOR MODEL 14291
 1651 THROUGH 1728
 
 ## CHANGELOG:
-1. Original Release Firmware<br>
-<br>
- 
+1. Original Release Firmware
+
 ## FIRMWARE AVAILABILITY:
 
 At this time, this firmware version will not be made available due to possible hardware compatibility issues that would cause certain hardware variants of this model to fail.

@@ -1,0 +1,8 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW4104 Jasco 28172 Plug-in 2-Outlet Smart Switch,,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.21,6.51.06,1. Removed S-0,1705
+,,2. Added AGI command class,
+,,3. Fixed an issue where node info was automatically sent in NWI mode,
+,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,
+5.22,6.51.10,1. Updated Devkit from 6.51.06 to 6.51.10,1749
