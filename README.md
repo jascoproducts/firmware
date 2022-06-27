@@ -63,6 +63,7 @@ updates and releasing them each Friday.
 ## Disclaimer
 
 ```
+
 The software is provided "as is" to provide our
 customers the ability to update our products.
 
@@ -84,16 +85,14 @@ software contained within this repository.
 
 Jasco does not offer support on flashing firmware
 to the devices listed here and are only provided
-as a courtesy to our customers and the community. 
+as a courtesy to our customers and the community.
+
 ```
 
 </div>
 
 <br>
 <br>
-
----
-
 <br>
 <br>
 
@@ -204,9 +203,6 @@ brand, and version number for your use case.
 
 <br>
 <br>
-
----
-
 <br>
 <br>
 
@@ -247,6 +243,9 @@ differ depending on the hub / system you are using.
 Some hubs / systems currently do not offer **OTA** updates, <br>
 and any requests to add functionality to do so should be <br>
 directed to the support for those specific systems.
+
+<br>
+<br>
 
 <!--
     
