@@ -94,11 +94,14 @@ as a courtesy to our customers and the community.
 <br>
 <br>
 <br>
+
+<a name = 'product-identification'></a>
+
 <br>
 
 <div align = center>
 
-# <a name = 'product-identification'></a> Ｐｒｏｄｕｃｔ　Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ
+# Ｐｒｏｄｕｃｔ　Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ
 
 <br>
 
@@ -204,11 +207,14 @@ brand, and version number for your use case.
 <br>
 <br>
 <br>
+
+<a name = 'firmware-updates'></a>
+
 <br>
 
 <div align = center>
 
-# <a name = 'firmware-updates'></a> Ｆｉｒｍｗａｒｅ　Ｕｐｄａｔｅｓ
+# Ｆｉｒｍｗａｒｅ　Ｕｐｄａｔｅｓ
 
 </div>
 
