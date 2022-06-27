@@ -60,7 +60,7 @@ updates and releasing them each Friday.
 <br>
 <br>
 
-## Disclaimer
+# Ｄｉｓｃｌａｉｍｅｒ
 
 ```
 
@@ -96,11 +96,11 @@ as a courtesy to our customers and the community.
 <br>
 <br>
 
-# Product Identification
+<div align = center>
+
+# Ｐｒｏｄｕｃｔ　Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ
 
 <br>
-
-<div align = center>
 
 <img
     src = './images/Z-Wave%20vs%20Z-Wave%20Plus.png'
@@ -206,7 +206,11 @@ brand, and version number for your use case.
 <br>
 <br>
 
-# Firmware Updates
+<div align = center>
+
+# Ｆｉｒｍｗａｒｅ　Ｕｐｄａｔｅｓ
+
+</div>
 
 <br>
 
