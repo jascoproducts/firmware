@@ -98,7 +98,7 @@ as a courtesy to our customers and the community.
 
 <div align = center>
 
-# Ｐｒｏｄｕｃｔ　Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ
+# Ｐｒｏｄｕｃｔ Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ
 
 <br>
 
@@ -208,7 +208,7 @@ brand, and version number for your use case.
 
 <div align = center>
 
-# Ｆｉｒｍｗａｒｅ　Ｕｐｄａｔｅｓ
+# Ｆｉｒｍｗａｒｅ Ｕｐｄａｔｅｓ
 
 </div>
 
@@ -298,8 +298,8 @@ directed to the support for those specific systems.
 
 <!----------------------------------------------------------------------------->
 
-[Identification]: #product-identification 'How to determine what type of product you own.'
-[Updating]: #firmware-update 'How to update the firmware on your device.'
+[Identification]: #ｐｒｏｄｕｃｔ-ｉｄｅｎｔｉｆｉｃａｔｉｏｎ 'How to determine what type of product you own.'
+[Updating]: #ｆｉｒｍｗａｒｅ-ｕｐｄａｔｅｓ 'How to update the firmware on your device.'
 
 [Firmware Request]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yml&title=%5BFirmware+Request%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER
 [Bug Report]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=bug_report.yml&title=%5BBug+Report%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER+-+FW+VERSION
