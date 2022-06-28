@@ -1,5 +1,26 @@
+
 # Security Policy
 
-## Reporting a Vulnerability
+<br>
 
-Please report security concerns or vulnerabilties to abuse@byjasco.com for our review. Please provide the filename or product in question as well as the concern.
+## Reporting Vulnerabilities
+
+If you have security concerns or want to <br>
+report a vulnerability, please contact us at:
+
+<kbd> <br> [abuse@byjasco.com][Contact] <br> </kbd>
+
+<br>
+
+### Please Provide
+
+- The filename / product in question.
+
+- A description of your concerns.
+
+<br>
+
+
+<!----------------------------------------------------------------------------->
+
+[Contact]: mailto:abuse@byjasco.com

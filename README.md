@@ -1,74 +1,324 @@
-# Jasco Products Company LLC (Jasco) Firmware Repository
 
-# Disclaimer
+# Jasco Firmware
 
-The software is provided "as is" to provide our customers the ability to update our products. Jasco does not offer any express or implied warranty of any kind when using these files, including, but not limited to, warranties of merchantability, noninfringement, or fitness for a particular purpose. 
+*Jasco Products Company LLC*
 
-Jasco does not imply or guarantee that the software provided will meet your requirements or that the operation thereof will be uninterrupted or error-free, or that all errors will be corrected. Jasco does not assume any responsibility for product errors related to the use of the software contained within this repository. Jasco does not offer support on flashing firmware to the devices listed here and are only provided as a courtesy to our customers and the community. 
+<br>
 
-# Files Contained In This Repository
+<div align = center>
 
-Z-Wave Firmware is avaliable for items listed under the '[zwave](https://github.com/jascoproducts/firmware/tree/main/zwave)' folder within the repository.
+---
 
-These firmware files have been tested and validated by the Jasco Connected Home team, and as testing occurs additional files will be released over time.
+[![Button Identification]][Identification]   
+[![Button Updating]][Updating] 
 
-If your item is not currently on this list, you can open a [Firmware Request](https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yml&title=%5BFirmware+Request%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER) and we will move it up on our priortiy list to release.
+---
 
-If you wish to report a problem with a particular Firmware version, please open a [Bug Report](https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=bug_report.yml&title=%5BBug+Report%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER+-+FW+VERSION) and we will investigate at the earliest opportunity.
+<br>
+<br>
 
-Wi-Fi products currently require the use of our app to update the firmware. If you have an Enbrighten, UltraPro, or other Jasco branded device, please use the appropriate app to deploy the latest firmware to your device. 
+## Content
 
-Zigbee Firmware coming soon.
+The [`/zwave/`][ZWave] directory contains all <br>
+currently available Z-Wave Firmware.
 
-# Initial Release Schedule
+These files have been tested and validated <br>
+by the **Jasco Connected Home** team.
 
-We will be working through and validating all current product that is capable of OTA updates and releasing each Friday.
+*As testing occurs additional files will be released.*
 
-Once all current product has been listed we will reevaluate the schedule as necessary.
+<br>
 
-# Identifying Your Product
+### Missing Items
 
-<img alt="Z-Wave vs Z-Wave Plus" width="568" src="images/Z-Wave vs Z-Wave Plus.png" />
+If your item is not currently on this list, you <br>
+can open a **[Firmware Request]** and we will <br>
+move it up on our priority list to release.
 
-First - Identify the Product Brand. This can be found in the upper left corner and will say one of the following brands:
+<br>
 
-Enbrighten-GE | Honeywell | UltraPro
+### Reporting Bugs
 
-Second - Identify your ZW Number. This can be found on the device itself, typically on the upper corner or back of the product itself.
+If you wish to report a problem with a particular <br>
+Firmware version, please open a **[Bug Report]** <br>
+and we will investigate at the earliest opportunity.
 
-Finally - Identify your Product Number. These are typically on the back of the device in question followed by "-x" (ex: 46201-2 or 55256-1).
-These will not be 5 digits next to "PIN:". The Pin number is for Z-Wave S2 Security inclusion.
+<br>
+<br>
 
-Example pictues are below:
+## Release Schedule
 
-<img alt="Example of a GE Branded Item" width="350px" src="images/example1.png" />
+We will be working through and validating <br>
+all current products that are capable of OTA <br>
+updates and releasing them each Friday.
 
-<img alt="Example of an Enbrighten Branded Item" width="350px" src="images/example2.png" />
+*Once all current products have been listed* <br>
+*we will reevaluate the schedule as necessary.*
+
+***Zigbee*** *firmware coming soon.*
+
+<br>
+<br>
+
+# Ｄｉｓｃｌａｉｍｅｒ
+
+```
+
+The software is provided "as is" to provide our
+customers the ability to update our products.
+
+Jasco does not offer any express or implied
+warranty of any kind when using these files,
+including, but not limited to, warranties of
+merchantability, noninfringement, or fitness
+for a particular purpose. 
+
+Jasco does not imply or guarantee that the
+software provided will meet your requirements
+or that the operation thereof will be
+uninterrupted or error-free, or that all
+errors will be corrected.
+
+Jasco does not assume any responsibility for
+product errors related to the use of the
+software contained within this repository.
+
+Jasco does not offer support on flashing firmware
+to the devices listed here and are only provided
+as a courtesy to our customers and the community.
+
+```
+
+</div>
+
+<br>
+<br>
+<br>
+
+<a name = 'product-identification'></a>
+
+<br>
+
+<div align = center>
+
+# Ｐｒｏｄｕｃｔ　Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ
+
+<br>
+
+<img
+    src = './images/Z-Wave%20vs%20Z-Wave%20Plus.png'
+    alt = 'Z-Wave vs Z-Wave Plus'
+    width = 568
+/>
+    
+</div>
+
+<br>
+<br>
+
+## Steps
+
+<br>
+
+1. **Identify the Product Brand.**
+
+    This can be found in the upper left corner and will say one of the following brands:
+
+    - <kbd> <br> Enbrighten-GE <br> </kbd>
+    - <kbd> <br> Honeywell <br> </kbd>
+    - <kbd> <br> UltraPro <br> </kbd>
+    
+    <br>
+
+2. **Identify your ZW Number.**
+
+    This can be found on the device itself, <br>
+    typically on the upper corner or back <br>
+    of the product itself.
+
+    <br>
+
+3. **Identify your Product Number.**
+
+    These are typically on the back of the <br>
+    device in question followed by `-x`
+    
+    #### Example
+    
+    `46201-2` or `55256-1`
+
+    #### Note
+
+    These will not be 5 digits next to `PIN:`.
+    
+    The Pin number is for Z-Wave S2 Security inclusion.
+
+
+<br>
+<br>
+
+## Examples
+
+<img
+    src = './images/example1.png'
+    alt = 'Example of a GE Branded Item'
+    width = 350
+/>
+
+<img
+    src = './images/example2.png'
+    alt = 'Example of an Enbrighten Branded Item'
+    width = 350
+/>
+
+<br>
+<br>
+
+## Folders
 
 The folder structure for firmware is as follows:
 
-Root - ZWAVE - (Brand) - (ZW Number) - (Product Number) - (Firmware Version Number) - Firmware File
+`/zwave/<Brand>/<ZW Number>/<Product Number>/<Firmware Version>/<Firmware-File>`
 
-Navigate to the correct section based on the ZW Number and Brand of your device, and the firmware version you wish to download.
+**Example:**
 
-PLEASE NOTE: Downloading and applying the wrong firmware can cause irreperable damage to your device. Application of incorrect firmware will void the warranty on your device. Please make sure you are getting the correct product, brand, and version number for your use case.
+`/zwave/Enbrighten-GE/14288 - In-Wall Smart Outlet/5.26/ZW1002_Enbrighten-GE_14288_5.hex`
 
-# Updating Your Firmware
+Navigate to the correct section based on the <br>
+ZW Number and Brand of your device, and <br>
+the firmware version you wish to download.
 
-For exact instructions on how to update your firmware, please review the documentation outlining this process for your specific home automation hub/system. Documentation must be provided by the support staff for the home automation hub/system in question. Some hubs and systems do not currently offer OTA updates, and any requested functionality to do so should be directed to the support for those specific systems.
+<br>
+<br>
 
-Home Assistant users must use the [ZWaveJS2MQTT application](https://zwave-js.github.io/zwavejs2mqtt/#/README) to apply firmware updates.
+## Warning
 
-[![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
+```
+Downloading and applying the wrong firmware
+can cause irreparable damage to your device.
+
+Application of incorrect firmware will
+void the warranty on your device.
+
+Please make sure you are getting the correct product,
+brand, and version number for your use case.
+```
+
+<br>
+<br>
+<br>
+
+<a name = 'firmware-updates'></a>
+
+<br>
+
+<div align = center>
+
+# Ｆｉｒｍｗａｒｅ　Ｕｐｄａｔｅｓ
+
+</div>
+
+<br>
+
+## WiFi
+
+WiFi products currently require the <br>
+use of our app to update the firmware.
+
+<br>
+<br>
+
+## Home Assistant
+
+For this system you willl have to use the <br>
+**[ZWaveJS2MQTT]** app to apply updates.
+
+[![Button Addon]][Addon]
+
+<br>
+<br>
+
+## Hubs
+
+The exact instructions on how to update your firmware <br>
+differ depending on the hub / system you are using.
+
+*Please review the documentation provided by* <br>
+*support staff of the hub / system in question.*
+
+<br>
+
+### Note
+
+Some hubs / systems currently do not offer **OTA** updates, <br>
+and any requests to add functionality to do so should be <br>
+directed to the support for those specific systems.
+
+<br>
+<br>
+
+<!--
+    
+    Hey cool, you read the comments and code. 
+    Since you found this, have a discount on us. 
+    Use LINUS10 for 10% off your next order on
+    (https://byjasco.com).
+    
+
+    *Offer valid for purchase and shipment in 
+    the U.S. only when redeemed by 7/31/2022. 
+    
+    Coupon code is required, discount will 
+    be applied when you enter the coupon 
+    code during the shopping cart process 
+    (case-sensitive).
+    
+    Coupon codes may only be redeemed once.
+    
+    Sales tax and shipping excluded.
+    
+    Dealers, distributors and other re-sellers 
+    are not eligible for this offer.
+    
+    Additional terms, conditions, products, 
+    pricing and offers subject to change 
+    without notice.
+    
+    Cannot be used on already discounted
+    items or combined with other offers.
+    
+    Not redeemable for cash or valid
+    toward previous purchases.
+    
+    Price match refunds are not eligible 
+    with any other promotions.
+    
+    Free Shipping is valid in the U.S. only
+    for purchases of $50 or more in same order.
+    
+    If you choose another shipping option,
+    additional charges will apply.
+    
+-->
 
 
-[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt
+<!----------------------------------------------------------------------------->
+
+[Identification]: #product-identification 'How to determine what type of product you own.'
+[Updating]: #firmware-updates 'How to update the firmware on your device.'
+
+[Firmware Request]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yml&title=%5BFirmware+Request%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER
+[Bug Report]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=bug_report.yml&title=%5BBug+Report%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER+-+FW+VERSION
+[Addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt 'Open this add-on in your Home Assistant instance.'
+[ZWaveJS2MQTT]: https://zwave-js.github.io/zwavejs2mqtt/
+  
+[License]: #
+[ZWave]: zwave
 
 
+<!--------------------------------[ Buttons ]---------------------------------->
 
-
-<!--Hey cool, you read the comments and code. Since you found this, have a discount on us. Use LINUS10 for 10% off your next order on (https://byjasco.com).
-
-*Offer valid for purchase and shipment in the U.S. only when redeemed by 7/31/2022. Coupon code is required, discount will be applied when you enter the coupon code during the shopping cart process (case-sensitive). Coupon codes may only be redeemed once. Sales tax and shipping excluded. Dealers, distributors and other re-sellers are not eligible for this offer. Additional terms, conditions, products, pricing and offers subject to change without notice. Cannot be used on already discounted items or combined with other offers.  Not redeemable for cash or valid toward previous purchases. Price match refunds are not eligible with any other promotions. Free Shipping is valid in the U.S. only for purchases of $50 or more in same order. If you choose another shipping option, additional charges will apply .>
+[Button Identification]: https://img.shields.io/badge/Product_Identification-00A0DF?style=for-the-badge&logoColor=white&logo=GitBook
+[Button Updating]: https://img.shields.io/badge/Updating_Firmware-37a779?style=for-the-badge&logoColor=white&logo=RSS
+[Button Addon]: https://my.home-assistant.io/badges/supervisor_addon.svg
 
