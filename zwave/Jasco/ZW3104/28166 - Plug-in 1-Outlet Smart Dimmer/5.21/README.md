@@ -16,4 +16,16 @@ v5.21: SECOND RELEASE FOR MODEL 28166
 1645 THROUGH PRESENT
 
 ## CHANGELOG:
-TBD
+1. Modified the button press process to change the LED status
+2. Modified the value to 2 for parameters 8, 10 and 12
+3. Modified the asscoation to 3 groups (5 nodes each group)
+4. Added Instantaneous reports CC, Scene Activation CC and Scene Actuator CC
+5. Modified the button press process for association group 2 and 3
+6. Modified the lifeline assocation group, 5 nodes will send singlecast message when the device is reset locally
+7. Removed CRC
+8. Updated to S-0
+9. Modified some command classes to support both security and non-security networks
+10. Updated the multilevel command class to version 2
+11. Added parameter 6
+12. Modified the default status for LED
+13. Dimming fix (bKeep) is added for LED light bulb flickering improvement

@@ -1,6 +1,7 @@
 ﻿FIRMWARE REVISION HISTORY,,,
 ZW4005 Jasco 14318 In-Wall Smart Paddle Switch,,,
 VERSION,Z-Wave Devkit,Changes,Date Code
+5.07,6.51.06,1. Original Release Firmware,1535
 5.2,6.51.06,1. Modify the default setting for LED indication,1648
 ,,2. Fixed an issue where node info was automatically sent in NWI mode,
 ,,"3. Fixed the reset and exclusion failure for the host device if associated with G1, G2 and G3",

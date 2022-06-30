@@ -1,7 +1,8 @@
 ﻿FIRMWARE REVISION HISTORY,,,
 ZW3005 Jasco 14321 In-Wall Smart Paddle Dimmer,,,
 VERSION,Z-Wave Devkit,Changes,Date Code
-5.23,6.51.08,TBD,1648
+5.08,6.51.06,1. Original Release Firmware,1535
+5.23,6.51.08,1. Dimming fix (bKeep) is added for LED light bulb flickering improvement,1648
 5.26,6.51.08,1. Added parameter 16 for switch mode,1705
 ,,2. Added parameter 19 for alternate exclusion,
 ,,3. Modified the value for parameter 3 (Default = 0),

@@ -1,6 +1,7 @@
 ﻿FIRMWARE REVISION HISTORY,,,
 ZW4103 Jasco 28168 Plug-in 1-Outlet Smart Switch,,,
 VERSION,Z-Wave Devkit,Changes,Date Code
+5.02,6.51.06,1. Original Release Firmware,1531
 5.21,6.51.06,1. Modify the button press process for association with groups 2 and 3,1648
 ,,"2. Modify the lifeline assocation group, 5 nodes will send singlecast message when the device is reset locally",
 ,,3. Modify the default setting for LED indication,

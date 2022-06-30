@@ -16,4 +16,4 @@ v5.23: SECOND RELEASE FOR MODEL 14321
 1648 THROUGH 1704
 
 ## CHANGELOG:
-TBD
+1. Dimming fix (bKeep) is added for LED light bulb flickering improvement
