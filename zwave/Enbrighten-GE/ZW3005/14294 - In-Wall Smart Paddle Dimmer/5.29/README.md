@@ -13,5 +13,5 @@ v5.29: SECOND RELEASE FOR MODEL 14294
 1806 THROUGH PRESENT
 
 ## CHANGELOG:
-1. Scene actuator and scene activation fixed<br>
+1. Fixed scene actuator and scene activation<br>
 2. Modified the dimming duration for Command Class Switch_Multilevel_Set
