@@ -225,11 +225,11 @@ brand, and version number for your use case.
 
 *You can find the search page by clicking the  **<kbd>  [Go to file]  </kbd>**  button.*
 
-<img
+[<img
     src = './images/Finding Firmware/Goto.png'
     alt = 'Where you can find the button for the search page.'
     width = 600
-/>
+/>][Go to file]
 
 <br>
 <br>
@@ -238,11 +238,11 @@ brand, and version number for your use case.
 
 *You can use your **Z-Wave Number** to search.*
 
-<img
+[<img
     src = './images/Finding Firmware/Z-Wave.png'
     alt = 'Example of searching for a Z-Wave Number.'
     width = 600
-/>
+/>][Go to file]
 
 <br>
 <br>
@@ -251,11 +251,11 @@ brand, and version number for your use case.
 
 *You can use your **Model Number** to search.*
 
-<img
+[<img
     src = './images/Finding Firmware/Model.png'
     alt = 'Example of searching for a Model Number.'
     width = 600
-/>
+/>][Go to file]
 
 <br>
 <br>
