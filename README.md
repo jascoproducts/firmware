@@ -10,7 +10,8 @@
 ---
 
 [![Button Identification]][Identification]   
-[![Button Updating]][Updating] 
+[![Button Finding]][Finding]   
+[![Button Updating]][Updating]
 
 ---
 
@@ -103,6 +104,9 @@ as a courtesy to our customers and the community.
 
 # Ｐｒｏｄｕｃｔ　Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ
 
+***Find out what type product you own.***
+
+<br>
 <br>
 
 <img
@@ -208,6 +212,62 @@ brand, and version number for your use case.
 <br>
 <br>
 
+<a name = 'finding-firmware'></a>
+
+<br>
+
+<div align = center>
+
+# Ｆｉｎｄｉｎｇ　Ｆｉｒｍｗａｒｅ
+
+***Search for the firmware your device needs.***
+
+</div>
+
+<br>
+<br>
+
+## Search
+
+*You can find the search page by clicking the  **<kbd>  [Go to file]  </kbd>**  button.*
+
+[<img
+    src = './images/Finding Firmware/Goto.png'
+    alt = 'Where you can find the button for the search page.'
+    width = 600
+/>][Go to file]
+
+<br>
+<br>
+
+## Z-Wave
+
+*You can use your **Z-Wave Number** to search.*
+
+[<img
+    src = './images/Finding Firmware/Z-Wave.png'
+    alt = 'Example of searching for a Z-Wave Number.'
+    width = 600
+/>][Go to file]
+
+<br>
+<br>
+
+## Model
+
+*You can use your **Model Number** to search.*
+
+[<img
+    src = './images/Finding Firmware/Model.png'
+    alt = 'Example of searching for a Model Number.'
+    width = 600
+/>][Go to file]
+
+<br>
+<br>
+<br>
+
+
 <a name = 'firmware-updates'></a>
 
 <br>
@@ -216,8 +276,11 @@ brand, and version number for your use case.
 
 # Ｆｉｒｍｗａｒｅ　Ｕｐｄａｔｅｓ
 
+***Update the firmware on your device.***
+
 </div>
 
+<br>
 <br>
 
 ## WiFi
@@ -230,7 +293,7 @@ use of our app to update the firmware.
 
 ## Home Assistant
 
-For this system you willl have to use the <br>
+For this system you will have to use the <br>
 **[ZWaveJS2MQTT]** app to apply updates.
 
 [![Button Addon]][Addon]
@@ -306,12 +369,14 @@ directed to the support for those specific systems.
 
 [Identification]: #product-identification 'How to determine what type of product you own.'
 [Updating]: #firmware-updates 'How to update the firmware on your device.'
+[Finding]: #finding-firmware 'How to find the firmware for your device.'
 
 [Firmware Request]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yml&title=%5BFirmware+Request%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER
 [Bug Report]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=bug_report.yml&title=%5BBug+Report%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER+-+FW+VERSION
+[Go to file]: https://github.com/jascoproducts/firmware/find/main
 [Addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt 'Open this add-on in your Home Assistant instance.'
 [ZWaveJS2MQTT]: https://zwave-js.github.io/zwavejs2mqtt/
-  
+
 [License]: #
 [ZWave]: zwave
 
@@ -319,6 +384,7 @@ directed to the support for those specific systems.
 <!--------------------------------[ Buttons ]---------------------------------->
 
 [Button Identification]: https://img.shields.io/badge/Product_Identification-00A0DF?style=for-the-badge&logoColor=white&logo=GitBook
-[Button Updating]: https://img.shields.io/badge/Updating_Firmware-37a779?style=for-the-badge&logoColor=white&logo=RSS
+[Button Updating]: https://img.shields.io/badge/Updating_Firmware-ED145B?style=for-the-badge&logoColor=white&logo=RSS
+[Button Finding]: https://img.shields.io/badge/Finding_Firmware-37a779?style=for-the-badge&logoColor=white&logo=OpenStreetMap
 [Button Addon]: https://my.home-assistant.io/badges/supervisor_addon.svg
 
