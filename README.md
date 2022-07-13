@@ -104,6 +104,9 @@ as a courtesy to our customers and the community.
 
 # Ｐｒｏｄｕｃｔ　Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ
 
+***Find out what type product you own.***
+
+<br>
 <br>
 
 <img
@@ -217,8 +220,11 @@ brand, and version number for your use case.
 
 # Ｆｉｎｄｉｎｇ　Ｆｉｒｍｗａｒｅ
 
+***Search for the firmware your device needs.***
+
 </div>
 
+<br>
 <br>
 
 ## Search
@@ -270,8 +276,11 @@ brand, and version number for your use case.
 
 # Ｆｉｒｍｗａｒｅ　Ｕｐｄａｔｅｓ
 
+***Update the firmware on your device.***
+
 </div>
 
+<br>
 <br>
 
 ## WiFi
