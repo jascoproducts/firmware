@@ -186,7 +186,7 @@ The folder structure for firmware is as follows:
 
 **Example:**
 
-`/zwave/Enbrighten-GE/14288 - In-Wall Smart Outlet/5.26/ZW1002_Enbrighten-GE_14288_5.hex`
+`/zwave/Enbrighten-GE/14288 - In-Wall Smart Outlet/5.26/ZW1002_Enbrighten-GE_14288_5.26.hex`
 
 Navigate to the correct section based on the <br>
 ZW Number and Brand of your device, and <br>

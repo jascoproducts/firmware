@@ -4,17 +4,16 @@ The software is provided "as is" to provide our customers the ability to update 
 Jasco does not imply or guarantee that the software provided will meet your requirements or that the operation thereof will be uninterrupted or error-free, or that all errors will be corrected. Jasco does not assume any responsibility for product errors related to the use of the software contained within this repository. Jasco does not offer support on flashing firmware to the devices listed here and are only provided as a courtesy to our customers and the community.
 
 ## CONTENTS:
-ZW3005_Enbrighten-GE_14294_5.29.hex
+ZW4009DV_Enbrighten-GE_43074_5.53.otz
 
 ## Z-WAVE DEVKIT VERSION:
-6.51.08
+6.81.01
 
 ## RELEASE NOTES:
-v5.29: SECOND RELEASE FOR MODEL 14294
+v5.53: ORIGINAL RELEASE FOR MODEL 43074
 
 ## DATE CODES INSTALLED ON:
-1806 THROUGH PRESENT
+1927 THROUGH PRESENT
 
 ## CHANGELOG:
-1. Fixed scene actuator and scene activation<br>
-2. Modified the dimming duration for Command Class Switch_Multilevel_Set
+1. Original Release Firmware
