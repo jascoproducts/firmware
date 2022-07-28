@@ -1,0 +1,6 @@
+﻿FIRMWARE REVISION HISTORY,,,
+"ZW3006 Jasco 14326 In-Wall 1000W Smart Toggle Dimmer, 500S",,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.23,6.51.08,1. Original Release Firmware,1719
+5.26,6.51.08,1. Added parameters 16 and 20,1902
+,,2. Added parameter 19 for alternate exclusion,

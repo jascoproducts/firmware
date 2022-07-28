@@ -1,0 +1,5 @@
+﻿FIRMWARE REVISION HISTORY,,,
+"ZW6302 Enbrighten-GE 34193 Portable Smart Motion Sensor, 500S",,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.24,6.51.07,1. Original Release Firmware,1633
+5.25,6.51.07,1. Bug fixed for the false trigger in low sensitivity mode,1709

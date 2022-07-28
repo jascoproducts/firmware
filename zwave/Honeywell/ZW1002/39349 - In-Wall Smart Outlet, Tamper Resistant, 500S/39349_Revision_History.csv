@@ -1,0 +1,5 @@
+﻿FIRMWARE REVISION HISTORY,,,
+"ZW1002 Honeywell 39349 In-Wall Smart Outlet, Tamper Resistant, 500S",,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.25,6.51.09,1. Original Release Firmware,1805
+5.26,6.51.09,1. Reworked version data for consistency,1836

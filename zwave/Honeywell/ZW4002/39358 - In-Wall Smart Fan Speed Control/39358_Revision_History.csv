@@ -1,8 +1,0 @@
-﻿FIRMWARE REVISION HISTORY,,,
-ZW4002 Honeywell 39358 In-Wall Smart Fan Speed Control,,,
-VERSION,Z-Wave Devkit,Changes,Date Code
-5.23,6.51.06,1. Original Release Firmware,1805
-,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,
-5.24,6.51.10,1. Updated the Devkit from 6.51.06 to 6.51.10,1848
-,,2. Added parameter 3,
-,,3. Added parameter 19 for alternate exclusion,
