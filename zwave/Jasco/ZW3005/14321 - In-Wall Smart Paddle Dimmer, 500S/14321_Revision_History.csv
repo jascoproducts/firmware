@@ -1,5 +1,7 @@
-﻿FIRMWARE REVISION HISTORY,,,
-"ZW3005 Jasco 14321 In-Wall Smart Paddle Dimmer, 500S",,,
+﻿FIRMWARE REVISION HISTORY,ZW3005 / 14321,Jasco,"In-Wall Smart Paddle Dimmer, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4944,,
+Product ID,0x3135,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.23,6.51.08,TBD,1648
 5.26,6.51.08,1. Added parameter 16 for switch mode,1705

@@ -1,4 +1,6 @@
-﻿FIRMWARE REVISION HISTORY,,,
-"ZW5304 Enbrighten-GE 34172 Portable 1-Scene Controller, 500S",,,
+﻿FIRMWARE REVISION HISTORY,ZW5304 / 34172,Enbrighten-GE,"Portable 1-Scene Controller, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4843,,
+Product ID,0x3031,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.11,6.51.09,1. Original Release Firmware,1916

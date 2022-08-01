@@ -1,4 +1,6 @@
-﻿FIRMWARE REVISION HISTORY,,,
-"ZW3012 Jasco 56590 In-Wall Smart Paddle Dimmer, No Ntrl, 700S",,,
+﻿FIRMWARE REVISION HISTORY,ZW3012 / 56590,Jasco,"In-Wall Smart Paddle Dimmer, No Ntrl, 700S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4944,,
+Product ID,0x3334,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 7.06,7.13.06,1. Original Release Firmware,2127

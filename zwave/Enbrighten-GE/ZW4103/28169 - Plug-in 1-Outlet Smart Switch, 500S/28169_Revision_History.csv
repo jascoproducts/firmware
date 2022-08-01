@@ -1,5 +1,7 @@
-﻿FIRMWARE REVISION HISTORY,,,
-"ZW4103 Enbrighten-GE 28169 Plug-in 1-Outlet Smart Switch, 500S",,,
+﻿FIRMWARE REVISION HISTORY,ZW4103 / 28169,Enbrighten-GE,"Plug-in 1-Outlet Smart Switch, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x5052,,
+Product ID,0x3038,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.01,6.51.06,1. Original Release Firmware (OTA file not released due to lack of support for Adesto flash in newer hardware),1544
 ,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,

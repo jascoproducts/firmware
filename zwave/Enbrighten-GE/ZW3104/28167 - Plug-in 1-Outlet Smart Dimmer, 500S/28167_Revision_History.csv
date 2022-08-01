@@ -1,5 +1,7 @@
-﻿FIRMWARE REVISION HISTORY,,,
-"ZW3104 Enbrighten-GE 28167 Plug-in 1-Outlet Smart Dimmer, 500S",,,
+﻿FIRMWARE REVISION HISTORY,ZW3104 / 28167,Enbrighten-GE,"Plug-in 1-Outlet Smart Dimmer, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x5044,,
+Product ID,0x3038,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.01,6.51.06,1. Original Release Firmware,1544
 ,,OTA file will not be released for this version due to lack of support for Adesto flash in newer hardware,

@@ -1,4 +1,6 @@
-﻿FIRMWARE REVISION HISTORY,,,
-"ZW5307 Jasco 37792 Portable 2-Button Remote, 500S",,,
+﻿FIRMWARE REVISION HISTORY,ZW5307 / 37792,Jasco,"Portable 2-Button Remote, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4843,,
+Product ID,0x3133,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.18,6.71.01,1. Original Release Firmware,1831

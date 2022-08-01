@@ -1,4 +1,6 @@
-﻿FIRMWARE REVISION HISTORY,,,
-"ZW6305 Jasco 43973 Slim Door and Window Sensor, 500S",,,
+﻿FIRMWARE REVISION HISTORY,ZW6305 / 43973,Jasco,"Slim Door and Window Sensor, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4953,,
+Product ID,0x3235,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.55,6.81.01,1. Original Release Firmware,1902

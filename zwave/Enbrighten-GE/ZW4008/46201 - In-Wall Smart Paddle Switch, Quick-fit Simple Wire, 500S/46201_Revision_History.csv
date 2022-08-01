@@ -1,5 +1,7 @@
-﻿FIRMWARE REVISION HISTORY,,,
-"ZW4008 Enbrighten-GE 46201 In-Wall Smart Paddle Switch, Quick-fit Simple Wire, 500S",,,
+﻿FIRMWARE REVISION HISTORY,ZW4008 / 46201,Enbrighten-GE,"In-Wall Smart Paddle Switch, Quick-fit Simple Wire, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4952,,
+Product ID,0x3135,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.53,6.81.03,1. Original Release Firmware,1918
 5.54,6.81.03,1. Add Parameter 84,2137
