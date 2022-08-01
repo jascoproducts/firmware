@@ -1,8 +1,8 @@
 ﻿FIRMWARE REVISION HISTORY,,,
+ZW1002,Enbrighten-GE,14297,"In-Wall Smart Outlet, Tamper Resistant, Lt Almd, 500S"
 Manufacturer ID,0x0063,,
 Product Type ID,0x4952,,
 Product ID,0x3233,,
-"ZW1002 Enbrighten-GE 14297 In-Wall Smart Outlet, Tamper Resistant, Lt Almd, 500S",,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.26,6.51.09,1. Original Release Firmware,1952
 5.51,6.82.00,1. S2 implementation,2031
