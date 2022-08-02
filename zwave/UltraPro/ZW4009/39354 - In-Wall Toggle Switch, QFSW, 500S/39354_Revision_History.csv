@@ -1,0 +1,6 @@
+﻿FIRMWARE REVISION HISTORY,ZW4009 / 39354,UltraPro,"In-Wall Toggle Switch, QFSW, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4952,,
+Product ID,0x3238,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.53,6.81.03,1. Original Release Firmware,2038

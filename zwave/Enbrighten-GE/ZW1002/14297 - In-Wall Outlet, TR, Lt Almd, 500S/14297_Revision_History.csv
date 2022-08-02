@@ -1,0 +1,10 @@
+﻿FIRMWARE REVISION HISTORY,ZW1002 / 14297,Enbrighten-GE,"In-Wall Outlet, TR, Lt Almd, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4952,,
+Product ID,0x3233,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.26,6.51.09,1. Original Release Firmware,1952
+5.51,6.82.00,1. S2 implementation,2031
+,,2. Central Scene implementation,
+,,3. Remove All ON/OFF,
+,,4. Modify parameter 3,

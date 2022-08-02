@@ -1,0 +1,7 @@
+﻿FIRMWARE REVISION HISTORY,ZW1002 / 39349,Honeywell,"In-Wall Outlet, TR, 500S"
+Manufacturer ID,0x0039,,
+Product Type ID,0x4952,,
+Product ID,0x3133,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.25,6.51.09,1. Original Release Firmware,1805
+5.26,6.51.09,1. Reworked version data for consistency,1836

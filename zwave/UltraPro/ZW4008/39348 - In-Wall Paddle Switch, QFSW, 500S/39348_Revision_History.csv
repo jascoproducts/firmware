@@ -1,0 +1,9 @@
+﻿FIRMWARE REVISION HISTORY,ZW4008 / 39348,UltraPro,"In-Wall Paddle Switch, QFSW, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4952,,
+Product ID,0x3237,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.53,6.81.03,1. Original Release Firmware,2038
+5.54,6.81.03,1. Add Parameter 84,2125
+,,2. Valid Value 0 – No specific behavior necessary,
+,,3. Valid Value 1 – Reset Switch to Factory Defaults ,

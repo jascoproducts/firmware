@@ -1,0 +1,13 @@
+﻿FIRMWARE REVISION HISTORY,ZW3008 / 26932,Jasco,"In-Wall Motion Dimmer, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x494d,,
+Product ID,0x3033,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.27,6.51.08,1. Original Release Firmware,1648
+5.32,6.51.08,"1. Changed device behavior: restart the reset cycle once motion detected (if PIR triggered, 08 sent); if continuous motion detected, the reset cycle will keep being restarted without sending an additional 08; and if no motion detected for a continuous 20s (default), 00 will be sent.",1843
+,,2. Fixed the notification report/GET report issues,
+,,3. Fixed AGI issues,
+,,4. Modified the operation for factory reset when parameter 19 (alternate exclusion) is set to 1,
+,,5. Fixed scene activation issue,
+,,6. Fixed an issue to report Lifeline Group 1 if we GET a non-supported group,
+,,7. Modified the button press procedure for alternate exclusion and alternate factory reset,

@@ -1,0 +1,9 @@
+﻿FIRMWARE REVISION HISTORY,ZW3105 / 28170,Jasco,"Plug-in 2-Outlet Dimmer, 1 Controlled, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x5044,,
+Product ID,0x3039,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.02,6.51.06,1. Original Release Firmware,1537
+5.20,6.51.08,1. Updated Switch Multilevel command class to latest version,1705
+,,2. Added parameter 6,
+,,3. Modify the default setting for LED indication,

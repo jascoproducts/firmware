@@ -1,7 +1,0 @@
-﻿FIRMWARE REVISION HISTORY,ZW4009 / 46202,Enbrighten-GE,"In-Wall Smart Toggle Switch, Quick-fit Simple Wire, 500S"
-Manufacturer ID,0x0063,,
-Product Type ID,0x4952,,
-Product ID,0x3137,,
-VERSION,Z-Wave Devkit,Changes,Date Code
-5.53,6.81.03,1. Original Release Firmware,1918
-5.54,6.81.03,1. Modify the feature for ON button,2147

@@ -1,0 +1,6 @@
+﻿FIRMWARE REVISION HISTORY,ZW4106 / 39342,Honeywell,"Plug-in 2-Outlet Switch, Simultaneous, 500S"
+Manufacturer ID,0x0039,,
+Product Type ID,0x5052,,
+Product ID,0x3033,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.22,6.51.10,1. Original Release Firmware,1805
