@@ -1,0 +1,7 @@
+﻿FIRMWARE REVISION HISTORY,ZW4006 / 24770,Jasco,"In-Wall Motion Switch, 500S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x494D,,
+Product ID,0x3031,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+5.28,6.51.06,1. Original Release Firmware,1645
+5.39,6.51.10,"1. Changed button press behavior: If the button is pressed and held for more than 0.5s, the light will turn on/off at the 0.5s mark. Then, if the button is released before the 3s mark, no further operation will be done. If the button is held for more than 3s, it will change the timeout duration setting.",1836
