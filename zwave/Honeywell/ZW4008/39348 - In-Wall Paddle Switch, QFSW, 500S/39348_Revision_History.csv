@@ -4,3 +4,6 @@ Product Type ID,0x4952,,
 Product ID,0x3135,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.53,6.81.03,1. Original Release Firmware,1902
+0.54,6.81.03,1. Add Parameter 84,N/A
+,,2. Valid Value 0 – No specific behavior necessary,
+,,3. Valid Value 1 – Reset Switch to Factory Defaults ,

@@ -5,3 +5,4 @@ Product ID,0x3137,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 5.53,6.81.03,1. Original Release Firmware,1918
 5.54,6.81.03,1. Modify the feature for ON button,2147
+0.54,6.81.03,1. Reimplement multi-tap behavior from v5.53,N/A

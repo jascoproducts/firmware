@@ -4,13 +4,13 @@ The software is provided "as is" to provide our customers the ability to update 
 Jasco does not imply or guarantee that the software provided will meet your requirements or that the operation thereof will be uninterrupted or error-free, or that all errors will be corrected. Jasco does not assume any responsibility for product errors related to the use of the software contained within this repository. Jasco does not offer support on flashing firmware to the devices listed here and are only provided as a courtesy to our customers and the community.
 
 ## CONTENTS:
-ZW4008_UltraPro_39348-54890-54891_5.54.otz
+ZW4009_UltraPro_39354-54912_0.54.otz
 
 ## RELEASE NOTES:
-v5.54: SECOND RELEASE FOR MODELS 39348, 54890 AND 54891
+v0.54: BETA RELEASE FOR MODELS 39354 AND 54912
 
 ## DATE CODES INSTALLED ON:
-2125 THROUGH PRESENT
+N/A
 
 ## CHANGELOG:
 1. Add Parameter 84

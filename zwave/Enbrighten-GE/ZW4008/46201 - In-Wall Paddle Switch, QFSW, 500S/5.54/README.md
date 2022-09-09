@@ -13,6 +13,6 @@ v5.54: SECOND RELEASE FOR MODEL 46201
 2137 THROUGH PRESENT
 
 ## CHANGELOG:
-1. Add Parameter 84<br>
-2. Valid Value 0 – No specific behavior necessary<br>
+1. Add Parameter 84
+2. Valid Value 0 – No specific behavior necessary
 3. Valid Value 1 – Reset Switch to Factory Defaults
