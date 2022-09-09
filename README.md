@@ -293,10 +293,10 @@ use of our app to update the firmware.
 
 ## Home Assistant
 
-For this system you will have to use the <br>
-**[ZWaveJS2MQTT]** app to apply updates.
+For this system you can use the following addons to apply updates: <br><br>
+**[ZWaveJS2MQTT]** **Addon:** [![Button Addon]][Addon_ZWaveJS2MQTT] <br> <br>
 
-[![Button Addon]][Addon]
+**[ZWaveJS]** **Addon:** [![Button Addon]][Addon_ZWaveJS]
 
 <br>
 <br>
@@ -374,8 +374,10 @@ directed to the support for those specific systems.
 [Firmware Request]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=firmware_request.yml&title=%5BFirmware+Request%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER
 [Bug Report]: https://github.com/jascoproducts/firmware/issues/new?assignees=&labels=&template=bug_report.yml&title=%5BBug+Report%5D%3A+BRAND+-+ZW+NUMBER+-+PRODUCT+NUMBER+-+FW+VERSION
 [Go to file]: https://github.com/jascoproducts/firmware/find/main
-[Addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt 'Open this add-on in your Home Assistant instance.'
+[Addon_ZWaveJS2MQTT]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_zwavejs2mqtt 'Open this add-on in your Home Assistant instance.'
+[Addon_ZwaveJS]: https://my.home-assistant.io/redirect/config_flow_start?domain=zwave_js 'Open this add-on in your Home Assistant instance.'
 [ZWaveJS2MQTT]: https://zwave-js.github.io/zwavejs2mqtt/
+[ZWaveJS]: https://www.home-assistant.io/integrations/zwave_js/
 
 [License]: #
 [ZWave]: zwave
