@@ -293,10 +293,7 @@ use of our app to update the firmware.
 
 ## Home Assistant
 
-For this system you can use the following addons to apply updates: <br><br>
-**[ZWaveJS2MQTT]** **Addon:** [![Button Addon]][Addon_ZWaveJS2MQTT] <br> <br>
-
-**[ZWaveJS]** **Addon:** [![Button Addon]][Addon_ZWaveJS]
+Home Assistant will automatically inform you when updates for your device are available.
 
 <br>
 <br>
