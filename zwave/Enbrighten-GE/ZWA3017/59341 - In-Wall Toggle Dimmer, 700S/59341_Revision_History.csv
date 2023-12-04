@@ -1,0 +1,9 @@
+﻿FIRMWARE REVISION HISTORY,ZWA3017 / 59341,Enbrighten,"In-Wall Toggle Dimmer, 700S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4944,,
+Product ID,0x3431,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+1.23,7.15.40,1. Original Release Firmware,2243
+1.24,7.15.40,1. Added 0.5s delay to dimming process to fix flashing occuring at the end of max brightness ramp,N/A
+1.25,7.15.40,1. Shortened dimming speed from 1-100 to 10 seconds,TBD
+,,"2. Updated to ignore invalid zero value for parameters 30, 31, 34, 35 and 36",
