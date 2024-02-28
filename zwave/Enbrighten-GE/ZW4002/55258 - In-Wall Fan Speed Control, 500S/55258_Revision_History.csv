@@ -3,8 +3,8 @@ Manufacturer ID,0x0063,,
 Product Type ID,0x4944,,
 Product ID,0x3337,,
 VERSION,Z-Wave Devkit,Changes,Date Code
-5.50,6.82.00,1. Original Release Firmware,2036
+5.5,6.82.00,1. Original Release Firmware,2036
 0.51,6.84.00,1. Added parameter 3 (adjustable LED behavior),N/A
 ,,2. Added parameter 84 (factory reset),
 ,,3. Added experimental parameter 40 (fan speed ramp rate),
-,,4. Update devkit to 6.84.00,
+,,4. Updated devkit to 6.84.00,

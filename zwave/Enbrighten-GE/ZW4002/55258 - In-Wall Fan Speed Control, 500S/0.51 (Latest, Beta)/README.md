@@ -16,4 +16,4 @@ N/A
 1. Added parameter 3 (adjustable LED behavior)
 2. Added parameter 84 (factory reset)
 3. Added experimental parameter 40 (fan speed ramp rate)
-4. Update devkit to 6.84.00
+4. Updated devkit to 6.84.00

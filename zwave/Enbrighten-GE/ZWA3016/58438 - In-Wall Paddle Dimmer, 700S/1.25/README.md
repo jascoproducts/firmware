@@ -16,5 +16,5 @@ v1.25: CERTIFIED FIRMWARE PENDING RELEASE FOR 58438
 TBD THROUGH PRESENT
 
 ## CHANGELOG:
-1. Shortened dimming speed from 1-100 to 10 seconds
+1. Shortened dimming speed for 1-100 to 10 seconds
 2. Updated to ignore invalid zero value for parameters 30, 31, 34, 35 and 36
