@@ -1,0 +1,6 @@
+﻿FIRMWARE REVISION HISTORY,ZWN3018 / 76597,Jasco,"In-Wall Paddle Dimmer, 800S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4944,,
+Product ID,0x3539,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+8.20,7.24.1,1. Fixes latching issue,

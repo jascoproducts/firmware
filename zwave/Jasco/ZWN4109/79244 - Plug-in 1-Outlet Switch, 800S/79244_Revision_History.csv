@@ -1,0 +1,6 @@
+﻿FIRMWARE REVISION HISTORY,ZWN4109 / 79244,Jasco,"Plug-in 1-Outlet Switch, 800S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x5052,,
+Product ID,0x3139,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+8.20,7.24.1,1. Fixes latching issue,

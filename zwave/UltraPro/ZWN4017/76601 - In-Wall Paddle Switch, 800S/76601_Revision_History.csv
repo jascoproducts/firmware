@@ -1,0 +1,6 @@
+﻿FIRMWARE REVISION HISTORY,ZWN4017 / 76601,UltraPro,"In-Wall Paddle Switch, 800S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4952,,
+Product ID,0x3534,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+8.20,7.24.1,1. Fixes latching issue,
