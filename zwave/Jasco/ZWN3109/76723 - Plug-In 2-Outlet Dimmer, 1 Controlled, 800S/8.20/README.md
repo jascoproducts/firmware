@@ -4,17 +4,16 @@ The software is provided "as is" to provide our customers the ability to update 
 Jasco does not imply or guarantee that the software provided will meet your requirements or that the operation thereof will be uninterrupted or error-free, or that all errors will be corrected. Jasco does not assume any responsibility for product errors related to the use of the software contained within this repository. Jasco does not offer support on flashing firmware to the devices listed here and are only provided as a courtesy to our customers and the community.
 
 ## CONTENTS:
-ZW4002_Enbrighten-GE_55258_5.51.otz
+ZWN3109_Jasco_76723_8.20.gbl
+
+## Z-WAVE DEVKIT VERSION:
+7.24.1
 
 ## RELEASE NOTES:
-v5.51: LATEST RELEASE FOR MODEL 55258
+v8.20: LATEST RELEASE FOR MODEL 76723 AS OF 10/14/25
 
 ## DATE CODES INSTALLED ON:
 N/A
 
 ## CHANGELOG:
-1. Added parameter 3 (adjustable LED behavior)
-2. Added parameter 84 (factory reset)
-3. Added experimental parameter 40 (fan speed ramp rate)
->> See https://devices.zwave-js.io/?jumpTo=0x0063:0x4944:0x3337:0.0 for additional details
-4. Updated devkit to 6.84.00
+1. Fixes latching issue
