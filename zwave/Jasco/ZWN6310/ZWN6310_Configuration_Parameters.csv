@@ -1,0 +1,21 @@
+Device,"ZWN6310 Water Leak Sensor, 800S",,,,,,,,,
+,,,,,,,,,,
+Parameter Number,Parameter Size,Parameter Name,Parameter Description,Parameter Value,Value Description,Advanced Menu Mode Method,Choose Parameter,Adjust Parameter Setting,Save Parameter Setting,Further Explanation
+3,1,LED Light Mode,Set the LED Light Mode,0,LED always OFF,N/A,N/A,Quickly press the manual button 10 times to move to the next option.,N/A,"Controls when the LED indicator lights up: never, when the sensor is wet, or when it is dry. The default (1) lights the LED when the sensor is wet."
+,,,,1 (Default),LED turns on when wet,,,,,
+,,,,2,LED turns on when dry,,,,,
+41,1,LED Light Intensity,Set the LED Light Intensity,0 (Default),Low,N/A,N/A,N/A,N/A,"Sets how bright the LED indicator is: low, medium, or high. The default is low."
+,,,,1,Medium,,,,,
+,,,,2,High,,,,,
+84,1,Reset to Factory Defaults,Reset Sensor to Factory Defaults,0 (Default),No reset (normal operation),N/A,N/A,N/A,N/A,"Resets the sensor to factory settings when set to 1, without touching the sensor itself. All custom settings are lost. The parameter then returns to 0 on its own, and the sensor works normally afterward."
+,,,,1,Reset to factory defaults,,,,,
+85,1,Alarm Sound,Set the Alarm Sound,0,Alarm always OFF,N/A,N/A,N/A,N/A,"Controls when the alarm sounds: never, when the sensor is wet, or when it is dry. The default (1) sounds the alarm when the sensor is wet."
+,,,,1 (Default),Alarm turns on when wet,,,,,
+,,,,2,Alarm turns on when dry,,,,,
+86,1,Low Battery Report,Set the battery level at which a low battery report is sent,10 (Default),5%-20%,N/A,N/A,N/A,N/A,Sets the battery percentage at which the sensor sends a low battery report to your hub. Choose from 5% to 20%; the default is 10%.
+87,1,Low Battery Chirp,Set whether the sensor chirps when the battery is low,0,Low battery chirp OFF,N/A,N/A,N/A,N/A,"Turns the low battery chirp on or off. When on, the sensor chirps to warn you that the battery is low. The default is on."
+,,,,1 (Default),Low battery chirp ON,,,,,
+88,1,Low Battery Chirp Interval,Set the number of minutes between low battery chirps (applies when Low Battery Chirp is on),1 (Default),1-10 minutes,N/A,N/A,N/A,N/A,Sets how many minutes pass between low battery chirps. Choose from 1 to 10 minutes; the default is 1.
+89,1,Status Reporting,Set when the sensor sends status reports,0 (Default),Status reports only when status changes (wet to dry or dry to wet),N/A,N/A,N/A,N/A,"Sets when the sensor reports its status to your hub. The default (0) reports only when the status changes, from wet to dry or dry to wet. Choose 1 to 24 to send a report after that many hours, or 25 to send regular status reports each time the sensor wakes up."
+,,,,1-24,Send status report after this number of hours,,,,,
+,,,,25,Send regular status reports on wake up,,,,,

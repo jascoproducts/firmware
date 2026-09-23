@@ -1,0 +1,15 @@
+Device,"ZWN4108 Plug-in 2-Outlet Switch, 1 Controlled, 800S",,,,,,,,,
+,,,,,,,,,,
+Parameter Number,Parameter Size,Parameter Name,Parameter Description,Parameter Value,Value Description,Advanced Menu Mode Method,Choose Parameter,Adjust Parameter Setting,Save Parameter Setting,Further Explanation
+3,1,LED Light Mode,Set the LED Light Mode,0,"LED is ON when load is OFF, LED is OFF when load is ON",N/A,N/A,Quickly press the ON/OFF button 10 times to move to the next option.,N/A,"Controls when the LED indicator lights up: when the load is off, when it is on, never, or always. The default (1) lights the LED while the load is on."
+,,,,1 (Default),"LED is ON when load is ON, LED is OFF when load is OFF",,,,,
+,,,,2,LED always OFF,,,,,
+,,,,3,LED always ON,,,,,
+39,1,Restore Status After Power Failure,Set the action taken after a power failure,0 (Default),Last State,N/A,N/A,N/A,N/A,"Sets what the controlled outlet does when power comes back after an outage: return to its last state, turn on, or turn off. The default is to return to the last state."
+,,,,1,ON,,,,,
+,,,,2,OFF,,,,,
+41,1,LED Light Intensity,Set the LED Light Intensity,0 (Default),Low,N/A,N/A,N/A,N/A,"Sets how bright the LED indicator is: low, medium, or high. The default is low."
+,,,,1,Medium,,,,,
+,,,,2,High,,,,,
+84,1,Reset to Factory Defaults,Reset Switch to Factory Defaults,0 (Default),No reset (normal operation),N/A,N/A,N/A,N/A,"Resets the switch to factory settings when set to 1, without touching the switch itself. All custom settings are lost. The parameter then returns to 0 on its own, and the switch works normally afterward."
+,,,,1,Reset to factory defaults,,,,,
