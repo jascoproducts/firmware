@@ -4,3 +4,4 @@ Product Type ID,0x4952,,
 Product ID,0x3239,,
 VERSION,Z-Wave Devkit,Changes,Date Code
 1.22,7.15.40,1. Original Release Firmware,ALL
+2.03,7.21.7,1. Updated to latest Silicon Labs SDK which fixes offline bugs,

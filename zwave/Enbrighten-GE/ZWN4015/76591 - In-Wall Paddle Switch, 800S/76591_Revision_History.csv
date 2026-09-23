@@ -1,0 +1,6 @@
+﻿FIRMWARE REVISION HISTORY,ZWN4015 / 76591,Enbrighten,"In-Wall Paddle Switch, 800S"
+Manufacturer ID,0x0063,,
+Product Type ID,0x4952,,
+Product ID,0x3435,,
+VERSION,Z-Wave Devkit,Changes,Date Code
+8.20,7.24.1,1. Updated to latest Silicon Labs SDK which fixes offline bugs,

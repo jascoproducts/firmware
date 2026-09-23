@@ -7,3 +7,4 @@ VERSION,Z-Wave Devkit,Changes,Date Code
 1.24,7.15.40,1. Added 0.5s delay to dimming process to fix flashing occuring at the end of max brightness ramp,N/A
 1.25,7.15.40,1. Shortened dimming speed for 1-100 to 10 seconds,TBD
 ,,"2. Updated to ignore invalid zero value for parameters 30, 31, 34, 35 and 36",
+2.01,7.21.7,1. Updated to latest Silicon Labs SDK which fixes offline bugs,
