@@ -1,0 +1,11 @@
+Device,"ZWA1003 In-Wall Outlet, TR, 700S",,,,,,,,,
+,,,,,,,,,,
+Parameter Number,Parameter Size,Parameter Name,Parameter Description,Parameter Value,Value Description,Advanced Menu Mode Method,Choose Parameter,Adjust Parameter Setting,Save Parameter Setting,Further Explanation
+3,1,LED Light Mode,Set when the LED indicator lights up,0,"LED is ON when load is OFF, LED is OFF when load is ON",N/A,N/A,Quickly press the programming button 5 times to move to the next option.,N/A,Controls when the LED indicator lights up.
+,,,,1 (Default),"LED is ON when load is ON, LED is OFF when load is OFF",,,,,
+,,,,2,LED always OFF,,,,,
+,,,,3,LED always ON,,,,,
+35,1,LED Light Intensity,Set the LED Light Intensity (applies when LED Light Mode is set to 1 or 3),4 (Default),1 (lowest) to 7 (highest),N/A,N/A,N/A,N/A,Sets how bright the LED indicator is.
+36,1,Guidelight Mode Intensity,Set the Guidelight Mode Intensity (applies when LED Light Mode is set to 0),4 (Default),1 (lowest) to 7 (highest),N/A,N/A,N/A,N/A,Sets how bright the guidelight is (the LED glow while the load is off).
+84,1,Reset to Factory Defaults,Reset Outlet to Factory Defaults,0 (Default),No reset (normal operation),N/A,N/A,N/A,N/A,"Resets the outlet to factory settings when set to 1. All custom settings are lost. The parameter then returns to 0 on its own, and the outlet works normally afterward."
+,,,,1,Reset to factory defaults,,,,,

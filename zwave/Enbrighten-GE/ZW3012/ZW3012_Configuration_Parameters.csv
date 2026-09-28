@@ -1,0 +1,21 @@
+Device,"ZW3012 In-Wall Paddle Dimmer, No Ntrl, 700S",,,,,,,,,
+,,,,,,,,,,
+Parameter Number,Parameter Size,Parameter Name,Parameter Description,Parameter Value,Value Description,Advanced Menu Mode Method,Choose Parameter,Adjust Parameter Setting,Save Parameter Setting,Further Explanation
+3,1,LED Light Mode,Set when the LED indicator lights up,0 (Default),"LED is ON when load is OFF, LED is OFF when load is ON",N/A,N/A,N/A,N/A,"Controls when the LED indicator at the bottom of the paddle lights up. The default works as a guidelight, glowing while the load is off."
+,,,,1,"LED is ON when load is ON, LED is OFF when load is OFF",,,,,
+,,,,2,LED always OFF,,,,,
+,,,,3,LED always ON,,,,,
+4,1,Invert Switch,Reverse the default ON/OFF Paddle Switch setting,0 (Default),Default Paddle Switch orientation,N/A,N/A,N/A,N/A,Flips the paddle so the top turns the load off and the bottom turns it on. Use this if the dimmer was installed upside down.
+,,,,1,Invert (upside down) the Paddle Switch orientation,,,,,
+6,1,Dim Up/Down Rate,Set whether the dimmer uses a slow dim rate,0 (Default),Disable (Normal Operation),N/A,N/A,N/A,N/A,Slows how quickly the dimmer ramps up and down.
+,,,,1,Enable (Slow Dim Rate),,,,,
+16,1,Switch Mode,Set whether the dimmer works as a dimmer or as an on/off switch,0 (Default),Disable (Dim Mode),N/A,N/A,N/A,N/A,"With Switch Mode enabled, the light is either fully off or fully on: pressing and holding the paddle does not dim or brighten, and any dim level set from your hub is treated as full brightness, with instant on/off and no ramping. Full brightness follows the Maximum Brightness Threshold (parameter 31)."
+,,,,1,Enable (Switch Mode),,,,,
+19,1,Alternate Exclusion,Set an alternative way to perform Exclusion,0 (Default),Press either paddle once,N/A,N/A,N/A,N/A,"Changes how you remove (exclude) the dimmer from your Z-Wave network. With the alternate method on, a single press will not remove the dimmer, and the presses must be fast; using two fingers, one on the top and one on the bottom, makes that easier."
+,,,,1,"Quickly press the top of the paddle 2 times, then the bottom 2 times",,,,,
+30,1,Minimum Dim Threshold,Set the lowest brightness level the dimmer will go to,1 (Default),1-99,N/A,N/A,N/A,N/A,Sets the lowest brightness the dimmer will go to. Raise it if your LED bulbs flicker at low levels.
+31,1,Maximum Brightness Threshold,Set the highest brightness level the dimmer will go to,99 (Default),1-99,N/A,N/A,N/A,N/A,Sets the highest brightness the dimmer will reach. Lower it if your LED bulbs flicker at high levels.
+32,1,Brightness Level,Set the brightness level the dimmer turns on to,0 (Default),Return to the last brightness level,N/A,N/A,N/A,N/A,Sets the brightness the dimmer turns on to when you switch it on at the paddle.
+,,,,1-99,Always turn ON to this level when turned ON manually,,,,,
+84,1,Reset to Factory Defaults,Reset Dimmer to Factory Defaults,0 (Default),No reset (normal operation),N/A,N/A,"Quickly press the top of the paddle 3 times, then the bottom 3 times. Using two fingers, one on the top and one on the bottom, makes the presses fast enough. The LED flashes 5 times to confirm the reset.",N/A,"Resets the dimmer to factory settings when set to 1. All custom settings are lost. The parameter then returns to 0 on its own, and the dimmer works normally afterward."
+,,,,1,Reset to factory defaults,,,,,
